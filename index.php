@@ -3,7 +3,7 @@
 <html>
 
 <head>
-  <title>Login</title>
+  <title>Login Semua</title>
   <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css" />
   <style type="text/css">
     @font-face {
